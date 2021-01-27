@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello and Welcome to Muhammad Ali's Profile 👋
 
-<!--
-**M-AliTanveer/M-AliTanveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :mortar_board: I'm a university student. I'm doing my **Bachelors in Computer Sceinces(BSCS)** from **FAST NUCES Karachi**.
+I upload and maintain my semester projects here as a way to track my progress and growth. 
+- :man_technologist: I am profficient in the understanding and solving of problems, be it real world or academic, using the C++ language and its ecosystem.
+- :open_book: I have keen interest in Web development, App development and Game development. I hope to achieve mastery in these some day. 
 
-Here are some ideas to get you started:
+## My Projects
+#### 1. [FLEX 2.0](#): 
+A clone of my university's Student Portal named FLEX. It was developed completely using C language and we developed extra features besides the one found in the official university's portal.
+#### 2. [Seymour](#):
+A Pizza shop developed using *Object Oriented Programming* Concepts and the Windows Forms Framework to provide a complete GUI experince. 
+#### 3. [Grammar Corrector and Dictionary](#):
+A Grammar Corrector and Dictionary developed with basic **Natural Language Processing(NLP)** to work out errors in helping verb placement and usage for all tenses of the English Language. 
+#### 4. [Full University Preparation Assistant](#):
+A program to create and take quizzes under time constraints to prepare students for university entrance tests. Developed in x86 Intel 8086 Assembly Language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :desktop_computer: Languages:
