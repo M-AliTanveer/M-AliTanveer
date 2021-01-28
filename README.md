@@ -8,7 +8,7 @@ I upload and maintain my semester projects here as a way to track my progress an
 ## My Projects
 #### 1. [FLEX 2.0](#): 
 A clone of my university's Student Portal named FLEX. It was developed completely using C language and we developed extra features besides the one found in the official university's portal.
-#### 2. [Seymour](#):
+#### 2. [Seymour](https://github.com/M-AliTanveer/Seymour):
 A Pizza shop developed using *Object Oriented Programming* Concepts and the Windows Forms Framework to provide a complete GUI experince. 
 #### 3. [Grammar Corrector and Dictionary](#):
 A Grammar Corrector and Dictionary developed with basic **Natural Language Processing(NLP)** to work out errors in helping verb placement and usage for all tenses of the English Language. 
