@@ -6,8 +6,8 @@ I upload and maintain my semester projects here as a way to track my progress an
 - :open_book: I have keen interest in Web development, App development and Game development. I hope to achieve mastery in these some day. 
 
 ## My Projects
-#### 1. [Mordecai(FLEX 2.0)](#): 
-A clone of my university's Student Portal named FLEX. It was developed completely using C language and we developed extra features besides the one found in the official university's portal. The project itself had two separaate sections for the teacher and the students linked together to create a seamless University Portal To get more info about the project, its working and how it was developed, check out the repository [here](#).
+#### 1. [Mordecai(FLEX 2.0)](https://github.com/M-AliTanveer/Mordecai): 
+A clone of my university's Student Portal named FLEX. It was developed completely using C language and we developed extra features besides the one found in the official university's portal. The project itself had two separaate sections for the teacher and the students linked together to create a seamless University Portal To get more info about the project, its working and how it was developed, check out the repository [here](https://github.com/M-AliTanveer/Mordecai).
 #### 2. [Seymour](https://github.com/M-AliTanveer/Seymour):
 A Pizza shop developed using *Object Oriented Programming* Concepts and the Windows Forms Framework to provide a complete GUI experince. We emulated a fully functional Pizzeria along with a Robust and fully customizeable Menu down to each individual component of the Pizza. Check the repository [here](https://github.com/M-AliTanveer/Seymour) for more info about the project.
 #### 3. [Grammar Corrector and Dictionary](#):
