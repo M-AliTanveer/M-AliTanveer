@@ -38,4 +38,4 @@ A program to create and take quizzes under time constraints to prepare students 
 
 The Languages I've developed in:
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M-AliTanveer)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M-AliTanveer&langs_count=5)
