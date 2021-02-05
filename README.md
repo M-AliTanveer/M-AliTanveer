@@ -12,8 +12,8 @@ A clone of my university's Student Portal named FLEX. It was developed completel
 A Pizza shop developed using *Object Oriented Programming* Concepts and the Windows Forms Framework to provide a complete GUI experince. We emulated a fully functional Pizzeria along with a Robust and fully customizeable Menu down to each individual component of the Pizza. Check the repository [here](https://github.com/M-AliTanveer/Seymour) for more info about the project.
 #### 3. [Grammar Corrector and Dictionary](https://github.com/M-AliTanveer/Grammar-Corrector):
 A Grammar Corrector and Dictionary developed with basic **Natural Language Processing(NLP)** to work out errors in helping verb placement and usage for all tenses of the English Language. 
-#### 4. [Full University Preparation Assistant](#):
-A program to create and take quizzes under time constraints to prepare students for university entrance tests. Developed in *x86 Intel 8086 Assembly Language*.
+#### 4. [Full University Preparation Assistant](https://github.com/M-AliTanveer/FUPA):
+A program to create and take quizzes under time constraints to prepare students for university entrance tests. It assists both students and teachers. This project is created in Intel x8086 assembly language using MASM assembler. Irvine's Library was used in the project as well as a set of Windows specific functions to enable clicking in the console for a partial GUI feel. Check out the repository [here](https://github.com/M-AliTanveer/FUPA).
 
 ## :desktop_computer: Languages:
 <div>
