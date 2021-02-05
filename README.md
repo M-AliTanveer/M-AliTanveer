@@ -34,7 +34,7 @@ A program to create and take quizzes under time constraints to prepare students 
 
 *My Github Stats:*
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-AliTanveer&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M-AliTanveer&langs_count=5)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-AliTanveer&show_icons=true&include_all_commits=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M-AliTanveer&langs_count=5)
 
 
 
