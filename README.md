@@ -14,6 +14,9 @@ A Pizza shop developed using *Object Oriented Programming* Concepts and the Wind
 This is a Grammar Corrector and Dictionary that me and my friends developed for our Data Structures project. The program makes use of basic **Natural Language Processing** I learned on my own within a limited timeframe. The program corrects errors in helping verb placement within a sentence and works for all tenses of the English Language. The UI was developed in Windows Forms to provide a complete and seamless GUI. Check the repository [here](https://github.com/M-AliTanveer/Grammar-Corrector) for more info about the project.
 #### 4. [Full University Preparation Assistant](https://github.com/M-AliTanveer/FUPA):
 A program to create and take quizzes under time constraints to prepare students for university entrance tests. It assists both students and teachers. This project is created in Intel x8086 assembly language using MASM assembler. Irvine's Library was used in the project as well as a set of Windows specific functions to enable clicking in the console for a partial GUI feel. Check out the repository [here](https://github.com/M-AliTanveer/FUPA).
+#### 5. [Numerical Computing and Analysis Python Script](https://github.com/Fawad-Javed-Fateh/Zephyr-I):
+A user friendly python script capable of approximating roots within the given tolerance range. The script accepts a wide variety of inputs for many of the popular Numerical Approximation methods and provides accurate answers.
+
 
 ## :desktop_computer: Languages:
 <div>
