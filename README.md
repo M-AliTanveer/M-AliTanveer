@@ -15,7 +15,7 @@ This is a Grammar Corrector and Dictionary that me and my friends developed for 
 #### 4. [Full University Preparation Assistant](https://github.com/M-AliTanveer/FUPA):
 A program to create and take quizzes under time constraints to prepare students for university entrance tests. It assists both students and teachers. This project is created in Intel x8086 assembly language using MASM assembler. Irvine's Library was used in the project as well as a set of Windows specific functions to enable clicking in the console for a partial GUI feel. Check out the repository [here](https://github.com/M-AliTanveer/FUPA).
 #### 5. [Zephyr II: Numerical Computing and Analysis ](https://github.com/M-AliTanveer/Zephyr-2.0-Parallelized):
-A GUI-based Parallel program developed completely in C++ with the use of OpenMP parallel directives. It Updates on the prior <a href="https://github.com/Fawad-Javed-Fateh/Zephyr-I>Python Script Zephyr I</a> with more updated and streamlined methodologies and parallelism based approach.
+A GUI-based Parallel program developed completely in C++ with the use of OpenMP parallel directives. It Updates on the prior <a href="https://github.com/Fawad-Javed-Fateh/Zephyr-I">Python Script Zephyr I</a> with more updated and streamlined methodologies and parallelism based approach.
 
 
 ## :desktop_computer: Languages:
