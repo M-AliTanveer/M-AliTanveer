@@ -34,7 +34,7 @@ A GUI-based Parallel program developed completely in C++ with the use of OpenMP 
   <img src="images/vscode-tool.png" height = "50px" width = "50px">
   <img src="images/github-tool.png" height = "50px" width = "50px">
   <img src="images/QT.png" height = "50px" width = "50px">
-  <img src="images/unreal-tool.png" height = "50px" width = "50px">
+  <img src="images/unrealengine.png" height = "50px" width = "50px">
 </div>
 
 
