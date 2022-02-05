@@ -27,14 +27,14 @@ A GUI-based Parallel program developed completely in C++ with the use of OpenMP 
   <img src="images/css-lang.png" height = "50px" width = "50px">
   <img src="images/python.png" height = "50px" width = "50px">
  </div>
- </br>
+
 **I use the following :hammer_and_wrench: tools in my projects and general development:**
 <div>
   <img src="images/vs-tool.png" height = "50px" width = "50px">
   <img src="images/vscode-tool.png" height = "50px" width = "50px">
   <img src="images/github-tool.png" height = "50px" width = "50px">
   <img src="images/QT.png" height = "50px" width = "50px">
-  <img src="images/unreal.png" height = "50px" width = "50px">
+  <img src="images/unreal.png" height = "60px" width = "60px">
 </div>
 
 
