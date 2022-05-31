@@ -8,8 +8,11 @@ I upload and maintain my semester projects here as a way to track my progress an
 ## My Projects
 #### 1. [Mordecai(FLEX 2.0)](https://github.com/M-AliTanveer/Mordecai): 
 A clone of my university's Student Portal named FLEX. It was developed completely using C language and we developed extra features besides the one found in the official university's portal. The project itself had two separaate sections for the teacher and the students linked together to create a seamless University Portal To get more info about the project, its working and how it was developed, check out the repository [here](https://github.com/M-AliTanveer/Mordecai).
-#### 2. [Seymour](https://github.com/M-AliTanveer/Seymour):
-A Pizza shop developed using *Object Oriented Programming* Concepts and the Windows Forms Framework to provide a complete GUI experince. We emulated a fully functional Pizzeria along with a Robust and fully customizeable Menu down to each individual component of the Pizza. Check the repository [here](https://github.com/M-AliTanveer/Seymour) for more info about the project.
+#### 2. [Nova DetectCam](https://github.com/T-Zaid/Nova-DetectCam)):
+A Deep Learning project which Utilizes [MediaPipe by Google](https://google.github.io/mediapipe) to track, model and stylyze the user's face. 
+The Project has 2 separate models working together. The Face model by MediaPipe and the Hand model by MediaPipe. 
+We set up the Hand model to track any movement done by the user's hands and for any gestures they perform, we have set up actions ranging from applying filters on the face of the person to controlling system acions such as screenshot taking and volume increasing.
+The Gestures activate the Filter Placement algorithm, both of which extensively work on landmark coordinates to ensure accuracy of work.
 #### 3. [Grammar Corrector and Dictionary](https://github.com/M-AliTanveer/Grammar-Corrector):
 This is a Grammar Corrector and Dictionary that me and my friends developed for our Data Structures project. The program makes use of basic **Natural Language Processing** I learned on my own within a limited timeframe. The program corrects errors in helping verb placement within a sentence and works for all tenses of the English Language. The UI was developed in Windows Forms to provide a complete and seamless GUI. Check the repository [here](https://github.com/M-AliTanveer/Grammar-Corrector) for more info about the project.
 #### 4. [Full University Preparation Assistant](https://github.com/M-AliTanveer/FUPA):
