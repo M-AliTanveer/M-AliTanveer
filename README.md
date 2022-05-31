@@ -8,7 +8,7 @@ I upload and maintain my semester projects here as a way to track my progress an
 ## My Projects
 #### 1. [Mordecai(FLEX 2.0)](https://github.com/M-AliTanveer/Mordecai): 
 A clone of my university's Student Portal named FLEX. It was developed completely using C language and we developed extra features besides the one found in the official university's portal. The project itself had two separaate sections for the teacher and the students linked together to create a seamless University Portal To get more info about the project, its working and how it was developed, check out the repository [here](https://github.com/M-AliTanveer/Mordecai).
-#### 2. [Nova DetectCam](https://github.com/T-Zaid/Nova-DetectCam)):
+#### 2. [Nova DetectCam](https://github.com/T-Zaid/Nova-DetectCam):
 A Deep Learning project which Utilizes [MediaPipe by Google](https://google.github.io/mediapipe) to track, model and stylyze the user's face. 
 The Project has 2 separate models working together. The Face model by MediaPipe and the Hand model by MediaPipe. 
 We set up the Hand model to track any movement done by the user's hands and for any gestures they perform, we have set up actions ranging from applying filters on the face of the person to controlling system acions such as screenshot taking and volume increasing.
