@@ -9,12 +9,24 @@ If you don't see a lot of commits here, that's because of 2 reasons:
 2) I generally use Perforce as a VCS, and then upload the projects here later on.
 
 ## My Projects
-#### 1. [Into The Mystic](https://github.com/M-AliTanveer/Into-The-Mystic): 
-"Into the Mystic" is a first-person shooter game that incorporates puzzle-solving and non-Euclidean geometry to create a unique gaming experience. This Final Year Project (FYP) experiments with the gimmicks in order to evaluate how these gimmicks can be utilized so that the gameplay progression feels smooth while also providing engaging gameplay.  The game uses the Unity3D engine and innovative gameplay mechanics to keep players engaged. The story revolves around humanoid androids solving test chambers to prove they can assimilate with humanity. You can read more about it [here](https://github.com/M-AliTanveer/Into-The-Mystic)
-#### 2. [VR Bowling (Prototype)](https://github.com/M-AliTanveer/VRBowling): 
+
+#### 1. [StickMan PvP](https://www.youtube.com/playlist?list=PLgC2BsVLJSf7phurJ0Oet-iAlD1qP8zSY): 
+Stickman PvPStickman PvP. initially called Stickman Fury, was a 3D recreation of the famous stick man fighting games. Developed within three months for a client, this game included a multi-player touch to allow various people to connect either randomly or through friend invite codes. I handled the games development from scratch, including prototyping various finisher moves, getting the environment built and coding the overall functionality of the game in the most efficient manner. EOS was utilized for multiplayer in the game and a sophisticated chained combo system was built for dynamic attack combos. You can find some videos showcasing game content [here](https://www.youtube.com/playlist?list=PLgC2BsVLJSf7phurJ0Oet-iAlD1qP8zSY)
+
+#### 2. [Cosmo Conuerors / Alien Invasion](https://www.youtube.com/playlist?list=PLgC2BsVLJSf5nPwH9D--8rXZ7zTK1rME4): 
+Cosmo Conquerors, codenamed Alien Invasion for development, is a work in progress Third Person / First person (hybrid) game. The game revolves around invasion of the planet by an alien species but gives the player the perspective of both sides, alien and human. This allows the player to enjoy different campaigns and playstyles. The game has an inhouse built weapon system. Everything is built from scratch and new gameplay mechanics are being added constantly. You can have a look at regularly posted devlogs [here](https://www.youtube.com/playlist?list=PLgC2BsVLJSf7phurJ0Oet-iAlD1qP8zSY)
+
+
+#### 3. [VR Bowling (Prototype)](https://github.com/M-AliTanveer/VRBowling): 
 This project is a prototype VR bowling game for Quest 2 that features multiplayer PvP gameplay. The game allows players to compete against each other in a realistic bowling alley environment, with physics-based ball and pin interactions. The game also supports voice chat, so players can communicate and trash talk during their turns. I used EOS for the multiplayer networking and Unreal Engine as the engine for this prototype.
 
-### Semester Projects
+#### 4. [Into The Mystic](https://github.com/M-AliTanveer/Into-The-Mystic): 
+"Into the Mystic" is a first-person shooter game that incorporates puzzle-solving and non-Euclidean geometry to create a unique gaming experience. This Final Year Project (FYP) experiments with the gimmicks in order to evaluate how these gimmicks can be utilized so that the gameplay progression feels smooth while also providing engaging gameplay.  The game uses the Unity3D engine and innovative gameplay mechanics to keep players engaged. The story revolves around humanoid androids solving test chambers to prove they can assimilate with humanity. You can read more about it [here](https://github.com/M-AliTanveer/Into-The-Mystic)
+
+
+<details>
+<summary> <b>Semester Projects </b></summary>
+
 #### 3. [Mordecai(FLEX 2.0)](https://github.com/M-AliTanveer/Mordecai): 
 A clone of my university's Student Portal named FLEX. It was developed completely using C language and we developed extra features besides the one found in the official university's portal. The project itself had two separaate sections for the teacher and the students linked together to create a seamless University Portal To get more info about the project, its working and how it was developed, check out the repository [here](https://github.com/M-AliTanveer/Mordecai).
 #### 4. [Nova DetectCam](https://github.com/T-Zaid/Nova-DetectCam):
@@ -29,6 +41,7 @@ A program to create and take quizzes under time constraints to prepare students 
 #### 7. [Zephyr II: Numerical Computing and Analysis ](https://github.com/M-AliTanveer/Zephyr-2.0-Parallelized):
 A GUI-based Parallel program developed completely in C++ with the use of OpenMP parallel directives. It Updates on the prior <a href="https://github.com/Fawad-Javed-Fateh/Zephyr-I">Python Script Zephyr I</a> with more updated and streamlined methodologies and parallelism based approach.
 
+</details>
 
 ## :desktop_computer: Languages:
 <div>
